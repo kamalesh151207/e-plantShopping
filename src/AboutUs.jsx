@@ -2,17 +2,17 @@ import React from "react";
 
 const AboutUs = () => {
   return (
-    <div className="about-container">
+    <div className="about-us-container">
       <h1>About Paradise Nursery</h1>
 
       <p>
-        Paradise Nursery is your one-stop destination for beautiful indoor and
-        outdoor plants. We provide high-quality plants to make your home greener
-        and healthier.
+        Welcome to Paradise Nursery, your trusted destination for beautiful
+        indoor and outdoor plants.
       </p>
 
       <p>
-        Our mission is to spread greenery and happiness through nature.
+        We aim to provide fresh plants and promote a greener environment
+        through affordable and quality nursery products.
       </p>
     </div>
   );
